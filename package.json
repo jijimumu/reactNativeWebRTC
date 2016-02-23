@@ -1,0 +1,25 @@
+{
+  "name": "react-native-webrtc",
+  "version": "1.0.0",
+  "description": "this is excercise for react native webRTC",
+  "main": "server.js",
+  "scripts": {
+    "test": "server",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jijimumu/reactNativeWebRTC.git"
+  },
+  "author": "Jijimumu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jijimumu/reactNativeWebRTC/issues"
+  },
+  "homepage": "https://github.com/jijimumu/reactNativeWebRTC#readme",
+  "devDependencies": {
+    "fs": "0.0.2",
+    "http": "0.0.0",
+    "socket.io": "^1.4.5"
+  }
+}
